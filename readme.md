@@ -32,5 +32,10 @@ Its objective is to look for an aircraft that is low risk in terms of operationa
 <li>To analyze the impact of weather conditions on aircraft accident severity,focusing on fatal injuries and to identify aircraft models that demonstrate lower risk in adverse weather conditons</li>
 </ul>
 <h4 style="font-size:36px;"><b>Data Understanding</b></h4>
-This data comes from the National Transportation Safety Board that includes aviation accident data about cival and selected aviation data in the US and its found in kaggle https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses the dataset has 8889 columns and 31 rows.its main determinanr column is the make which includes the type of makes of the aircrafts we also had 5 numerical specifically 5 float columns and i datetime row.outliers,mising values,were present and eda and descriptive analysis through describe helped us to witness that
+This data comes from the National Transportation Safety Board that includes aviation accident data about cival and selected aviation data in the US and its found in kaggle https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses the dataset has 8889 columns and 31 rows.its main determinanr column is the make which includes the type of makes of the aircrafts we also had 5 numerical specifically 5 float columns and i datetime row.outliers,mising values,were present and eda and descriptive analysis through describe helped us to witness that:
+<h2><b> Visualizations</b></h2>
+<img src="safest aircraft models.png" width="1000" height="700">
+<img src="skewed data.png" width="1000" height="700">
+<img src="weather.png" width="1000" height="700">
+
 
