@@ -38,4 +38,10 @@ This data comes from the National Transportation Safety Board that includes avia
 <img src="skewed data.png" width="1000" height="700">
 <img src="weather.png" width="1000" height="700">
 
-
+identifying Aircraft with low Repair costs for financial feasibility
+<ul>
+    <li>Aircrafts with more 'Destroyed' or 'Substantial damage'incidents have higher repair costs</li>
+    <li>some aircrafts had high accident frequency but lower repair costs likely due to minor damage</li>
+    <h7><b>conclusion</b></h7><li> Aircrafts models thats experince fewe accidents and sustain less damage offer better financial feasibility due to lower repair costs</li>
+    conclusion
+<li>The safest aircraft models are those with low accident frequency or none or few fatal injuries</li>
