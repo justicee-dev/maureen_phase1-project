@@ -38,6 +38,8 @@ This data comes from the National Transportation Safety Board that includes avia
 <img src="skewed data.png" width="1000" height="700">
 <img src="weather.png" width="1000" height="700">
 
+<h4 style="font-size:36px;"><b>Conclusions</b></h4>
+
 identifying Aircraft with low Repair costs for financial feasibility
 <ul>
     <li>Aircrafts with more 'Destroyed' or 'Substantial damage'incidents have higher repair costs</li>
